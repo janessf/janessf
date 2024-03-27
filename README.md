@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janessf&label=Profile%20views&color=0e75b6&style=flat" alt="janessf" /> </p>
 
-- I have a degree in Information Technology for Business Management from Fatec-SP and a postgraduate degree in Software Engineering from FIAP. **
+- I have a degree in Information Technology for Business Management from Fatec-SP and a postgraduate degree in Software Engineering from FIAP.
 
 - 🌱I'm constantly learning and have interests in **programming, automation, Python, and Cybersecurity.**
 
